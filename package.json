@@ -59,7 +59,7 @@
     ]
   },
   "devDependencies": {
-    "@formatjs/cli": "^3.1.5",
+    "@formatjs/cli": "^4.2.27",
     "@types/bezier-js": "^0.0.8",
     "@types/classnames": "^2.3.1",
     "@types/d3": "^7.0.0",
